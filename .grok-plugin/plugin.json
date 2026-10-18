@@ -1,0 +1,20 @@
+{
+  "name": "soorgla",
+  "version": "1.0.0",
+  "description": "Soorgla Turkish law research for Grok Build and Claude Code via the hosted Soorgla MCP server at mcp.soorgla.com. Search 11M+ Turkish court decisions (Yargıtay, Danıştay, Constitutional Court and more) and current legislation, read statute articles and their history, and answer with links to the original texts. Read-only. Sign in with your Soorgla account on first connect.",
+  "author": {
+    "name": "Soorgla",
+    "email": "info@soorgla.com",
+    "url": "https://soorgla.com"
+  },
+  "homepage": "https://soorgla.com/ekle/",
+  "license": "Proprietary",
+  "keywords": [
+    "soorgla",
+    "soorgla mcp",
+    "soorgla hukuk",
+    "soorgla.com"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/soorgla/soorgla-plugin"
+}

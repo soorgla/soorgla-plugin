@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soorgla": {
+      "type": "http",
+      "url": "https://mcp.soorgla.com/mcp"
+    }
+  }
+}
